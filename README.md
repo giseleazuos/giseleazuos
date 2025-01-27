@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Gisele 👋
 
-<!--
-**giseleazuos/giseleazuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFSP - HTO.
 
-Here are some ideas to get you started:
+## 🌱 Foco de Estudo
+- **Java**
+- **Spring Boot**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas e Tecnologias
+- 🖥️ **Backend**: Java, Spring Boot
+- 📊 **Banco de Dados**: PostgreSQL
+
+## 🔗 Conecte-se comigo
+- 🔗 [LinkedIn](https://www.linkedin.com/in/giselesouzax/)
+
+## 📊 Minhas Estatísticas
+<div>
+  <a href="https://github.com/giseleazuos">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
