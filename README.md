@@ -8,7 +8,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFSP - HTO.
 
 ## 🛠️ Ferramentas e Tecnologias
 - 🖥️ **Backend**: Java, Spring Boot
-- 📊 **Banco de Dados**: PostgreSQL
 
 ## 🔗 Conecte-se comigo
 - 🔗 [LinkedIn](https://www.linkedin.com/in/giselesouzax/)
